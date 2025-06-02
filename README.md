@@ -185,6 +185,5 @@ Expected response:
       "is_active": true,
       "expires_at": "2025-06-02T11:23:45.123456"
     },
-    ...
   ]
   ```
